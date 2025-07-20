@@ -1,0 +1,12 @@
+{
+  "name": "gcs-pubsub-trigger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+     "express": "^4.18.2",
+     "@google-cloud/pubsub": "^3.7.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
